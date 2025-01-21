@@ -6,7 +6,7 @@ using UnityEditor;
 using UnityEditor.Callbacks;
 using UnityEngine;
 
-namespace ShowProjectPathOnUnityWindowTitle
+namespace UnityTitleBarExtension.Editor
 {
     /// <summary>
     /// Unity Editorのウィンドウタイトルに上位フォルダ名を表示する。
