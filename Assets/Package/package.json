@@ -2,7 +2,7 @@
     "name": "com.mhama.unity-titlebar-extension",
     "displayName": "UnityTitleBarExtension",
     "author": { "name": "Makoto Hamanaka", "url": "https://github.com/mhama" },
-    "version": "0.1",
+    "version": "0.1.0",
     "unity": "2019.4",
     "description": "Show project path on the Unity Editor's title bar.",
     "keywords": [ "async/await", "async", "Task", "UniTask" ],
